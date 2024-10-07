@@ -10,6 +10,17 @@ namespace Oefening_voor_Git
     {
         static void Main(string[] args)
         {
+            // Tom Adriaens
+            // 07/10/2024
+            // Project oefening GIT
+
+            // Velden 
+
+            // Programma 
+
+            // Zeg hallo
+            Console.Write("Hallo");
+            Console.ReadKey();
         }
     }
 }
